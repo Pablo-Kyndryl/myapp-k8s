@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: pablokyndryl/myapp:2.0.0
+        image: pablokyndryl/myapp:3.0.0
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
